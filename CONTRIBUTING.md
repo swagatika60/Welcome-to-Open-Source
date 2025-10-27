@@ -18,7 +18,7 @@
 
     ```
     <td align="center">
-        <a href="https://alisolanki.com/">
+        <a href="https://swagatika60.com/">
             <img src="https://avatars.githubusercontent.com/u/55312000?v=4" width="100px;" alt="Ali Solanki"/>
             <br />
             <sub><b>Swagatika Beura</b></sub>
